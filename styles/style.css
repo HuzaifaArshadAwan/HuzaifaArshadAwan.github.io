@@ -1,0 +1,42 @@
+html {
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: #32a852;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0px 50px 200px;
+  border: 10px solid palevioletred;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 3px 3px 10px black;
+}
+
+img {
+  width: 250px;
+  display: block;
+  margin: 0 auto;
+}
+
+p,li {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 2px;
+}
+
+#a123 {
+  color: green;
+}
+
+.design {
+  color: red;
+}
